@@ -1,4 +1,4 @@
-// Date: Monday, Jan 19, 2025
+// Date: Monday, Jan 19, 2026
 // LeetCode #169: Majority Element
 // Difficulty: Easy/Medium (Medium if using optimal solution; find below)
 // Technique: Moore's Voting Algorithm
