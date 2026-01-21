@@ -1,4 +1,5 @@
-// Date: Tuesday, Jan 20, 2026
+// Date: Tuesday, Jan 20 2026
+//
 // Leetcode #53: Maximum Subarray
 // Difficult: Medium
 // Technique: Kadane's algorithm
