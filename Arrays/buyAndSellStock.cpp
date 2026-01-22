@@ -1,10 +1,10 @@
-// Date:
+// Date: Jan 21 2026
 //
-// Leetcode #:
-// Difficulty:
+// Leetcode #121: Best Time to Buy and Sell Stock
+// Difficulty: Easy/Medium
 // Technique:
 // Intuition:
-// Time Complexity: O(), Space Complexity: O()
+// Time Complexity: O(n), Space Complexity: O(1)
 
 #include <bits/stdc++.h>
 
